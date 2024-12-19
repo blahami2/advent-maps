@@ -1,2 +1,9 @@
 .idea
 build/
+
+.gradle/
+.kotlin/
+gradle/
+gradlew
+gradlew.bat
+data/
